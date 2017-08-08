@@ -2,7 +2,7 @@
 
 Hello, my name is Daria.
 
-I originally come from Russia, lived 7 years in France, and now I come to Canada for new opportunities and challenges. 
+I originally come from Russia, lived 7 years in France and I'm currently living in Canada since 2016.
 
 I have worked for various companies in various roles, but what really became my dream job was Scrum Master role. 
 
@@ -10,9 +10,9 @@ I've received a Master's degree in Project Management back in 2012 from Higher S
 
 I've always been known for strong organizational skills that help me a lot in my career choice. At the same time, I stay creative and flexible. I like to work with people as part of a team and can be independent when working on specific projects.
 
-My professional interest lies in software and web development, as well as video games. Though, I do not have purely technical education or experience, I have a good understanding of this area. I have even developed my own website from scratch when I was working on my entrepreneurial project. I'm also attending CS50 class on edX and am counting on completing it before the end of this summer.
+My professional interest lies in software and web development, as well as video games. Though, I do not have purely technical education or experience, I have a good understanding of this area. I have even developed my own website from scratch when I was working on my entrepreneurial project.
 
-I'm currently looking for new Scrum Master or Agile Project Manager opportunities in Toronto, Canada. Please feel free to contact me via email.
+While working as a Scrum Master in a software company, I am actively studying programming and designing and developing my first video and board games.
 
 Best,
 Daria Bagina
